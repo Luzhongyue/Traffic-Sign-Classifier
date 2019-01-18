@@ -3,6 +3,11 @@
 ## Overview
 
 Implemention a convolutional neural networks based the [Lenet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) architecture using TensorFlow so it can decode traffic signs from natural images by using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).After the model is trained, then testing the model program on new images of traffic signs found on the web.
+
+Here is the examples of some traffic sign images:
+
+![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/original.png)
+
 The steps of this project are the following:
 * Load the data set
 * Explore, summarize and visualize the data set
@@ -61,7 +66,7 @@ To add more data to the the data set, so the images of each label made more bala
 * random bright()
 * random translate()
 
-![]()
+![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/augemented.png)
 
 ## Model Ariculture
 
@@ -99,9 +104,11 @@ My model was modofied based on the Lenet.
 ## Test the Model on New Images
 
 Choosing several German traffic signs found on the web to be calssified by the model. Here are ten German traffic signs that I found on the web:
+
 ![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/total.png)
 
 Here are the results of the prediction:
+
 ![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/1.png)
 ![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/2.png)
 ![](https://github.com/Luzhongyue/Traffic-Sign-Classifier/blob/master/Images/3.png)
