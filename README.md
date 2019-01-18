@@ -18,15 +18,14 @@ The steps of this project are the following:
 
 ## Dependencies
 
-This project requires **Python 3.5** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [Jupyter](http://jupyter.org/)
 - [NumPy](http://www.numpy.org/)
-- [SciPy](https://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/)
 - [TensorFlow](http://tensorflow.org)
 - [Matplotlib](http://matplotlib.org/)
-- [Pandas](http://pandas.pydata.org/) (Optional)
+-
 
 ## Dataset and Repository
 
